@@ -1,5 +1,17 @@
 # Predictive Analysis Using Machine Learning
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : TANMAY DARI
+
+*INTERN ID* : CTIS2656
+
+*DOMAIN* : DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH KUMAR
+
 ## Project Overview
 This project builds a machine learning model to predict diabetes outcomes based on medical data. The notebook demonstrates a complete end-to-end machine learning workflow.
 
